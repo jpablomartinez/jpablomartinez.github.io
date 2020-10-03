@@ -1,0 +1,11 @@
+const DRAWER_BACKGROUND = '#171614';
+const YELLOW_TEXT = '#D8B331';
+const PRIMARY_TEXT = '#636262';
+const SECONDARY_TEXT = '#C4C4C4';
+
+module.exports = {
+    DRAWER_BACKGROUND,
+    YELLOW_TEXT,
+    PRIMARY_TEXT,
+    SECONDARY_TEXT
+};
